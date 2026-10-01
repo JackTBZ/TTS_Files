@@ -1,0 +1,64 @@
+{
+  "Card": {
+    "1": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Text%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Headquarters%20-%20Negition.png"
+    },
+    "2": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Pebble%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "3": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Mine%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "4": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Pin%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "5": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Treasure%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "6": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Excavator%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "7": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Magnet%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "8": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Metal%20Detector%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "9": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Purse%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "10": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Sandbag%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "11": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Shell%20Casing%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "12": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Shovel%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "13": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Soda%20Can%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "14": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Warhead%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    },
+    "15": {
+      "front": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/Wire%20Cutter%20-%20Negition.png",
+      "back": "https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/Negition/cardback.png"
+    }
+  }
+}
