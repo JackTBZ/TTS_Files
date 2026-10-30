@@ -1,89 +1,89 @@
 type,face,back,name,description,gm_notes,tags,,statCell
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Diego%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Diego - Unit - Hero,,"10pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Diego%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Diego - Unit - Hero,,"10pwr 1card
 {ronAttack}: +2{PWR} this round for each other ally Unit here
 {ronDefense}: Success: Draw a card for each ally Unit here","Unit, Hero",,10pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Diego%2C%20Marshal%20Hunter%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,"Diego, Marshal Hunter - Unit - Hero",,"12pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Diego%2C%20Marshal%20Hunter%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,"Diego, Marshal Hunter - Unit - Hero",,"12pwr 2card
 {ronAttack}: +2{PWR} this round for each other Unit here
 {ronDefense}: Start of Battle: Draw a card for each Unit here","Unit, Hero",,12pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Trick/Ambushed%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Ambushed - Trick - Hero,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Ambushed%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Ambushed - Trick - Hero,,"
 Choose an Ally Unit. That Unit battles each enemy Unit here, one by one.
 Shuffle this card into the owner's draw pile","Trick, Hero",,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Darrik%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Darrik - Unit - Hero,,"10pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Darrik%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Darrik - Unit - Hero,,"10pwr 1card
 {ronAttack}: +2{PWR} to ally Units here this round
 {ronDefense}: Stash a card in hand","Unit, Hero",,10pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Darrik%2C%20Brutish%20Raider%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,"Darrik, Brutish Raider - Unit - Hero",,"12pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Darrik%2C%20Brutish%20Raider%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,"Darrik, Brutish Raider - Unit - Hero",,"12pwr 2card
 {ronAttack}: +3{PWR} and +1{CARD} to ally Units here this round
 {ronDefense}: When an ally Unit here kills an enemy Unit: Stash a card","Unit, Hero",,12pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Trick/Decimation%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Decimation - Trick - Hero,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Decimation%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Decimation - Trick - Hero,,"
 Stash up to 6 cards in hand. Then, draw that many cards and shuffle that many cards in the enemy's Stash into their draw pile.
 Shuffle this card into the owner's draw pile","Trick, Hero",,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Domain/Velquita%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Velquita - Domain,,"40card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Velquita%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Velquita - Domain,,"40card
 When an ally Unit dies: Gain 1{DICE}.
 The owner may spend X{DICE} to do the following:
 - 2{DICE}: Draw a card
 - 4{DICE}: Give a Unit +2{PWR} this round
 - 6{DICE}: Stash a card in hand",Domain,,40card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Domain/Sterdford%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Sterdford - Domain,,"40card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Sterdford%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Sterdford - Domain,,"40card
 When an ally Unit dies: Gain 1{DICE}.
 The owner may spend X{DICE} to do the following:
 - 2{DICE}: Draw a card
 - 4{DICE}: Give a Unit +2{PWR} this round
 - 6{DICE}: Stash a card in hand",Domain,,40card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Marauder%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Marauder - Unit,,"6pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Marauder%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Marauder - Unit,,"6pwr 2card
 {ronAttack}: If the another ally ""Marauder"" is present: Double this Unit's {PWR} this round",Unit,,6pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Vanguard%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Vanguard - Unit,,"8pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Vanguard%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Vanguard - Unit,,"8pwr 1card
 {ronDefense}: +4 {PWR} to this Unit this round",Unit,,8pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Berserker%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Berserker - Unit,,"7pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Berserker%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Berserker - Unit,,"7pwr 1card
 {ronAttack}: Draw a card",Unit,,7pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Officer%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Officer - Unit,,"3pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Officer%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Officer - Unit,,"3pwr 1card
 {ronDefense}: Failure: Kill the opposing enemy Unit",Unit,,3pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Executioner%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Executioner - Unit,,"1pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Executioner%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Executioner - Unit,,"1pwr 2card
 {ronDefense}: +1{PWR} to this Unit this round for each card in the owner's Stash.
 {ronAttack}: +1{PWR} to this Unit this round for each card in the opponent's Stash",Unit,,1pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Juggernaut%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Juggernaut - Unit,,"8pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Juggernaut%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Juggernaut - Unit,,"8pwr 1card
 {ronDefense}: Failure: Draw a card",Unit,,8pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Slayer%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Slayer - Unit,,"9pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Slayer%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Slayer - Unit,,"9pwr 1card
 {ronAttack}: Success: Shuffle a card in the opponent's Stash into their draw pile",Unit,,9pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Bulwark%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Bulwark - Unit,,"10pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Bulwark%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Bulwark - Unit,,"10pwr 1card
 {ronDefense}: Slide this Unit left or right 1 tile",Unit,,10pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Brawler%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Brawler - Unit,,"10pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Brawler%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Brawler - Unit,,"10pwr 1card
 {ronAttack}: Round End: Slide this Unit right 1 tile.
 {ronDefense}: Round End: Slide this Unit left 1 tile",Unit,,10pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Duelist%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Duelist - Unit,,"6pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Duelist%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Duelist - Unit,,"6pwr 1card
 {ronAttack}: If this Unit is opposed: +4{PWR} to this Unit this round",Unit,,6pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Gladiator%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Gladiator - Unit,,"5pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Gladiator%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Gladiator - Unit,,"5pwr 2card
 {ronAttack}: Success: +2{PWR} this round to another ally Unit here",Unit,,5pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Stalwart%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Stalwart - Unit,,"5pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Stalwart%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Stalwart - Unit,,"5pwr 2card
 {ronDefense}: Success: +2{PWR} this round to another ally Unit here",Unit,,5pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Mercenary%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Mercenary - Unit,,"2pwr 3card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Mercenary%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Mercenary - Unit,,"2pwr 3card
 {ronAttack}: Shuffle a card in Stash to draw pile to swap this Unit's base {PWR} with the opposing enemy Unit's base {PWR}",Unit,,2pwr 3card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Crusader%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Crusader - Unit,,"4pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Crusader%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Crusader - Unit,,"4pwr 1card
 {ronDefense}: Reveal the top card of the owner's draw pile. If it's a Trick: +1{CARD} to this Unit this round. If it's a Unit: Double this Unit's current {PWR} this round",Unit,,4pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Vindicator%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Vindicator - Unit,,"7pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Vindicator%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Vindicator - Unit,,"7pwr 2card
 {ronAttack}: Double this Unit's current {CARD} this round",Unit,,7pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Knight%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Knight - Unit,,"10pwr 2card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Knight%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Knight - Unit,,"10pwr 2card
 {ronDefense}: Success: Draw a card",Unit,,10pwr 2card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Warrior%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Warrior - Unit,,"8pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Warrior%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Warrior - Unit,,"8pwr 1card
 {ronAttack}: Success: Stash a card in hand. Draw a card",Unit,,8pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Unit/Guardian%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Guardian - Unit,,"8pwr 1card
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Guardian%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Guardian - Unit,,"8pwr 1card
 {ronDefense}: Swap this Unit with another ally Unit present",Unit,,8pwr 1card
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Item/Shortsword%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Shortsword - Item,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Shortsword%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Shortsword - Item,,"
 On draw: The owner may reveal this card to Stash it",Item,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Item/Longsword%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Longsword - Item,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Longsword%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Longsword - Item,,"
 {ronAttack}: Success: Shuffle a card in the opponent's Stash to their draw pile",Item,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Item/Bow%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Bow - Item,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Bow%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Bow - Item,,"
 {ronAttack}: This Unit may battle any enemy Unit in any lane",Item,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Item/Shield%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Shield - Item,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Shield%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Shield - Item,,"
 {ronDefense}: Success: Stash the top card of the draw pile",Item,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Item/Axe%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Axe - Item,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Axe%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Axe - Item,,"
 {ronAttack}: Draw a card",Item,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Trick/Evade%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Evade - Trick,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Evade%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Evade - Trick,,"
 Slide an ally Unit present left or right 1 tile",Trick,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Trick/Frighten%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Frighten - Trick,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Frighten%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Frighten - Trick,,"
 {ronDefense}: -4{PWR} to the enemy Unit opposing the caster",Trick,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Trick/Battlecry%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Battlecry - Trick,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Battlecry%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Battlecry - Trick,,"
 {ronAttack}: +4{PWR} to the caster",Trick,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Trick/Overwhelm%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Overwhelm - Trick - Battle Spell,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Overwhelm%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Overwhelm - Trick - Battle Spell,,"
 {ronBonusA}: Round End: Draw a card for each Unit here",Trick - Battle Spell,,
-Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Trick/Rally%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Rally - Trick - Battle Spell,,"
+Card,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/Rally%20-%20SSA%20-%20RoN.png,https://raw.githubusercontent.com/JackTBZ/TTS_Files/refs/heads/main/RoN/cardback.png,Rally - Trick - Battle Spell,,"
 {ronBonusA}:+2{PWR} to all ally Units present here. Success: The opponent must shuffle cards in hand to draw pile until they have 4 cards in hand",Trick - Battle Spell,,
